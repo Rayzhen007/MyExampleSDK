@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Rayzhen007/CRToast'
+  s.homepage         = 'https://gitee.com/ray_17/MyExMobileSDK/CRToast'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Rayzhen007' => '15261656817@126.com' }
-  s.source           = { :git => 'https://github.com/Rayzhen007/CRToast.git', :tag => s.version.to_s }
+  s.author           = { 'Rayz_17' => 'Rayz_17@126.com' }
+  s.source           = { :git => 'https://gitee.com/ray_17/MyExMobileSDK/CRToast.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
