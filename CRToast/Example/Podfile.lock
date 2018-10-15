@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CRToast: c92f0e3b4652a766bce4f42cb37f860edc03068e
+  CRToast: 93b43b509f2b25eca38733fa0ede6d5292cc04ca
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
 
